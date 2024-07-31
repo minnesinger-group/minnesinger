@@ -1,0 +1,12 @@
+{
+  "name": "minnesinger",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Andrew.Kuryan",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "firebase-tools": "^12.9.1",
+    "prettier": "^3.0.0",
+    "typescript": "^5.2.2"
+  }
+}
