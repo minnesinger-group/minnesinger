@@ -24,5 +24,8 @@
         "firebase-debug.*.log"
       ]
     }
-  ]
+  ],
+  "firestore": {
+    "rules": "server/firestore.rules"
+  }
 }
